@@ -1,13 +1,19 @@
-# 📘 Architecture & IT Study Log
+# 🏛️ Spatial Computing Lab (R&D)
 
-건축기반의 개발자로 전향하기 위한 **파이썬(Python) & 블렌더(Blender) & 라이노3D(Rhino 3D) & 그래스호퍼(Grasshopper) & 언리얼엔진(Unreal Engine)** 학습 기록 공간입니다.
+> **Python & 3D Engine Scripting Archive**
+> 건축과 공간 컴퓨팅을 연결하기 위한 기술 검증(PoC) 및 학습 코드를 저장하는 공간입니다.
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
-![Rhino 3D](https://img.shields.io/badge/Rhino%203D-000000?style=flat&logo=rhinoceros&logoColor=white)
-![Grasshopper](https://img.shields.io/badge/Grasshopper-009432?style=flat&logo=grasshopper&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+## 📂 Directory Structure (폴더 구조)
+
+* **`/blender_script`**: Blender `bpy` API를 활용한 모델링 자동화 스크립트
+* **`/rhino_gh`**: Rhino/Grasshopper 파라메트릭 알고리즘 (스크린샷 및 로직)
+* **`/unreal_cpp`**: Unreal Engine C++ 클래스 및 블루프린트 구조
+* **`/cs_study`**: CS 기초 및 알고리즘 학습 코드 (Python/C++)
+
+## 🚀 Key Features
+
+* **Parametric Facade:** 커튼월 자동 생성 로직 테스트
+* **Digital City:** 도시 데이터(GIS) 기반 매싱 자동화
 
 
 ## 📅 Daily Log (학습 일지)
