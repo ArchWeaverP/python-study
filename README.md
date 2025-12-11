@@ -20,7 +20,7 @@
 
 | Date | Category | Key Feature / Task | Status |
 | :--- | :--- | :--- | :---: |
-| 2025.12.10 | **CS / Python** | **Memory & Pointer Logic**<br>Python Core Fundamentals / Focusing on Memory mgmt & Data Structures | 🟡 In Progress |
+| 2025.12.10 | **CS / Python** | **Python Core Fundamentals**<br>Focusing on Memory mgmt & Data Structures | 🟡 In Progress |
 | 2025.12.05 | **Blender API** | **Auto-Building Gen v0.2**<br>Refined random mass generation algorithm. | 🟢 Done |
 | 2025.12.04 | **Blender API** | **Parametric Curtainwall**<br>Implemented panel distribution logic on curved surfaces. | 🟢 Done |
 | 2025.12.01 | **Digital Twin** | **City Gen Prototype**<br>Procedural city generation loop based on grid data. | 🟢 Done |
